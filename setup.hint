@@ -1,0 +1,4 @@
+category: KDE
+requires: gnupg libgcc1 libkdecore5 libkpim4 libQtCore4 libQtDBus4 libQtGui4 libstdc++6
+sdesc: "KDE GnuPG frontend"
+ldesc: "KDE utilities suite"
