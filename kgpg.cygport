@@ -6,4 +6,5 @@ RELEASE=1
 CATEGORY="Utils"
 SUMMARY="KDE GnuPG frontend"
 DESCRIPTION="Part of the KDE utilities suite"
-REQUIRES="gnupg"
+
+REQUIRES="gnupg kde-runtime"
